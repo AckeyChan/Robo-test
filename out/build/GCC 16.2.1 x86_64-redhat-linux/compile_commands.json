@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ackey/文档/robomaster/projects/test/out/build/GCC 16.2.1 x86_64-redhat-linux",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/cmake_test.dir/src/main.cpp.o -c /home/ackey/文档/robomaster/projects/test/src/main.cpp",
+  "file": "/home/ackey/文档/robomaster/projects/test/src/main.cpp",
+  "output": "CMakeFiles/cmake_test.dir/src/main.cpp.o"
+}
+]
