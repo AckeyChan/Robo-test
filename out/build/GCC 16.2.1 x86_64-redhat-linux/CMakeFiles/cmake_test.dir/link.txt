@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/cmake_test.dir/link.d CMakeFiles/cmake_test.dir/src/main.cpp.o -o cmake_test
