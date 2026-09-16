@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20260916-1319-Experimental"
+	Name="MiWiFi-RA70-srv"
+	Generator="ctest-4.3.0"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="16.2.1"
+	OSName="Linux"
+	Hostname="MiWiFi-RA70-srv"
+	OSRelease="7.2.5-200.fc44.x86_64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Fri Sep 11 15:11:05 UTC 2026"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="198"
+	ModelName="Intel(R) Core(TM) Ultra 9 275HX"
+	ProcessorCacheSize="36864"
+	NumberOfLogicalCPU="24"
+	NumberOfPhysicalCPU="24"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="31502"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3193.555908"
+	>
+	<Testing>
+		<StartDateTime>Sep 16 21:19 CST</StartDateTime>
+		<StartTestTime>1789564775</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 16 21:19 CST</EndDateTime>
+		<EndTestTime>1789564775</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
